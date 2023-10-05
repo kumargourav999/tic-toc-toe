@@ -1,0 +1,15 @@
+.startgame{
+    text-decoration: none;
+    font-size: 30px;
+}
+.div{
+    text-align: center;
+    width: 100px;
+    background-color: burlywood;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+}
+img{
+    width:50px;
+}
